@@ -10,5 +10,9 @@
 
 ![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/42d4194b-38a2-4421-ad22-f993423c8528)
 
+## Function Types
+
+![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/40c051f3-84f5-4e32-9c20-0890c84a7caa)
+
 
 
