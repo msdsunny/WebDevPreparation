@@ -14,7 +14,21 @@
 
 ![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/99efcc6a-eea1-4f41-9d04-99e4ce5048e1)
 
+## Optional and Default Parameter
+
+If you want parameter to be optional then use ? to mark the parameter optional.
+
 ![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/80984b6a-8f60-47c6-b7e4-a4bc46914387)
+
+Default Values
+
+![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/60eece27-df8b-454f-bb56-eb91e65cdaff)
+
+
+
+
+
+
 
 
 
