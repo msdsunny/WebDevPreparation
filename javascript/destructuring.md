@@ -24,6 +24,9 @@ Default Values
 
 ![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/60eece27-df8b-454f-bb56-eb91e65cdaff)
 
+![image](https://github.com/msdsunny/WebDevPreparation/assets/39462578/b4d6742b-ebdf-4e49-b905-07f2c441ffb6)
+
+
 
 
 
